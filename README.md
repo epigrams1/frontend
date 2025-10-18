@@ -1,2 +1,24 @@
 # frontend
-The frontend provides an intuitive ach are sent to the backend for storage. The UI dynamically updates using asynchronous API calls, ensuring a smooth and responsive experience. 
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

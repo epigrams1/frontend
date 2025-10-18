@@ -1,0 +1,48 @@
+.bg-body {
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px var(--bs-navbar-disabled-color);
+    padding-top: 0.1rem;
+}
+
+.nav-style {
+    margin-left: 2rem;
+    margin-right: 0.1rem;
+}
+
+.brand-style {
+    color: black;
+}
+
+.icon-style {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+.arrow-style {
+    margin-top: -2px;
+    font-size: 1.2rem;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+
+}
+
+.arrow-icon {
+    width: 1em;
+}
+
+.link-style {
+    color: black;
+    text-decoration: none;
+}
+
+.link-text {
+    margin-bottom: 0px;
+}
+
+.toggle-style {
+    margin-left: 3rem;
+}
+
+.collapse-style {
+    margin-left: auto;
+}

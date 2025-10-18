@@ -1,0 +1,117 @@
+
+.container-submission {
+    margin-left: 10rem;
+    margin-right: 7rem;
+    padding-top: 1rem;
+    width: 100%;
+    display: flex;
+
+    .filter-data{
+        background-color: red;
+        padding-left: 0;
+        margin-left: 0;
+        margin-top: 0;
+        padding-top: 0;
+    }
+}
+
+.my-card-text {  /* Target the custom class and ID for specificity */
+    padding: 1rem 0;  /* Add desired padding */
+    color: red;
+}
+
+.container-filter-card {
+    margin-right: 7rem;
+    width: 100%;
+    display: flex;
+    /*background-color: red;*/
+    padding-left: 0;
+    margin-left: 0;
+    margin-top: 0;
+    padding-top: 0;
+
+}
+
+.left-container
+{
+    width: 40%;
+}
+.right-container {
+    width: 40%;
+    margin: 0 7rem;
+}
+
+.main-data {
+    text-align: center;
+    margin-top: 2rem;
+    background-color: white;
+    display: flex;
+    padding-top: 1rem; ;
+    border-radius: 0.5rem;
+    margin-left: 10rem;
+    margin-right: 4.2rem;
+}
+
+
+.search-bar {
+    text-align: center;
+    margin-top: 1rem;
+    background-color: transparent;
+    display: flex;
+    padding-top: 1rem; ;
+    border-radius: 0.5rem;
+    margin-left: 10rem;
+    margin-right: 22.2rem;
+}
+
+.filters {
+    margin-top: 2rem;
+    display: flex;
+    background-color: white;
+    border-radius: 0.5rem;
+    margin-left: 28rem;
+    padding-left: 0;
+    margin-right: 26.2rem;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.scrollable-container {
+    height: 40rem;
+    overflow-y: scroll;
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+
+.selected {
+    border: 2px solid blue;
+}
+
+.noTypeCard{
+    border: 2px solid #880b0b;
+}
+
+.noTypeWarning {
+    color: #960909;
+}
+
+.icon-button {
+    border: none;
+    background: none;
+    right: 0;
+    padding-right: 0.5rem;
+    position: absolute;
+    cursor: pointer;
+}
+
+.semi-bold {
+    font-weight: 550;
+    color: #343434;
+}
+
+.col-form-label {
+    margin-right: 0;
+}
