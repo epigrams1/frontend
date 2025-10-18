@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Epigramia feather icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4f86c6"/>
+      <stop offset="100%" stop-color="#2f5f9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" ry="12" fill="#ffffff"/>
+  <g transform="translate(8,8)">
+    <path fill="url(#g)" d="M28 2c-6 2-12 10-15 16-3 4-4 8-3 11l19-12-13 15c4 2 8 1 12-1 8-4 16-13 17-19 1-6-3-10-9-10-3 0-6 1-8 4z"/>
+    <path fill="#ffffff" fill-opacity="0.35" d="M12 34c8-7 17-14 26-19-9 6-17 13-24 21l-2-2z"/>
+  </g>
+</svg>

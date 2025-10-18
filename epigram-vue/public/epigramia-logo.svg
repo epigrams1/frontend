@@ -1,0 +1,17 @@
+<svg width="180" height="42" viewBox="0 0 565 193" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Epigramia logo">
+  <defs>
+    <linearGradient id="featherGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4f86c6"/>
+      <stop offset="100%" stop-color="#2f5f9a"/>
+    </linearGradient>
+  </defs>
+  <!-- Feather -->
+  <g transform="translate(0,4) scale(0.85)">
+    <path fill="url(#featherGrad)" d="M90 10c-22 8-46 39-58 64-9 18-12 33-9 44l74-50-52 62c14 8 33 5 53-5 31-16 61-52 64-77 3-22-11-40-34-38-11 1-23 5-38 15z"/>
+    <path fill="#ffffff" fill-opacity="0.35" d="M40 110c28-26 60-52 92-70-33 22-60 47-86 76l-6-6z"/>
+  </g>
+  <!-- Text -->
+  <g transform="translate(120,140)">
+    <text x="0" y="0" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="120" font-weight="700" fill="#111827">Epigramia</text>
+  </g>
+</svg>
